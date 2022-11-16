@@ -1,6 +1,6 @@
 module.exports = {
     BOT: {
-        token: "MTA0MjM3NDcxNTMwNzcyODkxNw.G1aL96.VC0EGPAbjsuMIk-emedn1qxu8ei4Ol58vHLRJw",
+        token: "",
         appID: "1042374715307728917", 
         guildId: "1042166484933300224",
         HandlerMode: "Guild",
