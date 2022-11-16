@@ -1,0 +1,23 @@
+module.exports = {
+    BOT: {
+        token: "MTA0MjM3NDcxNTMwNzcyODkxNw.G1aL96.VC0EGPAbjsuMIk-emedn1qxu8ei4Ol58vHLRJw",
+        appID: "1042374715307728917", 
+        guildId: "1042166484933300224",
+        HandlerMode: "Guild",
+        ownerId: ""
+    },
+    CHANNELS: {
+        aboneLog: "1042375985905029140"
+    }, 
+    ROLES: {
+        aboneYetkilisi: "1042166484950061071",
+        aboneRoles: {
+            townyRole: "1042166484950061067",
+            survivalRole: "1042166484950061066",
+            skyblockRole: "1042166484933300233",
+            hediyeKapmaca: "1042166484933300232",
+            discordgifPackRole: "1042166484933300231",
+            buildBattleRole: "1042166484933300228"
+        }
+    }
+}
